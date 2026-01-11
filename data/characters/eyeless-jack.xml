@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="EyelessJack" color="#183E95">
+	<anim name="idle" anim="Idle instancia 1"/>
+	<anim name="singRIGHT" anim="Right instancia 1" y="80"/>
+	<anim name="singDOWN" anim="Down instancia 1" x="75" y="-60"/>
+	<anim name="singLEFT" anim="Left instancia 1" x="105" y="-65"/>
+	<anim name="singUP" anim="Up instancia 1" x="125" y="60"/>
+</character>

@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard"
+	],
+	"icon": "face",
+	"coopAllowed": false,
+	"color": "#9271FD",
+	"stepsPerBeat": 4,
+	"displayName": "It was a nightmare",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 120
+}
